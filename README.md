@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hevek
+- 👀 I’m interested in learning (at least for a while).
+- 🌱 I’m currently learning Python, C#, HTML, CSS and ASP.NET.
