@@ -1,7 +1,7 @@
 ### <div align="center">I'm Hevek, a full-time junior full-stack developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on my [JS Fighting Game](https://github.com/Hevek/js-fighting-game), and a [Clone project of Tabnews](https://github.com/Hevek/clone-tabnews), the original one can be found at [Tabnews.com.br](https://tabnews.com.br).
+- 🔭 I’m currently working on my [JS Fighting Game](https://github.com/Hevek/js-fighting-game) (you can play it by [clicking on this link](https://js-fighting-game.vercel.app)), and a [Clone project of Tabnews](https://github.com/Hevek/clone-tabnews), the original one can be found at [Tabnews.com.br](https://tabnews.com.br).
   
 
 - 🌱 I’m 20, currently learning PHP, JS, Kotlin, React and Next.js
@@ -43,6 +43,8 @@
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a> 
 </div>
 
 </td></tr></table>  
