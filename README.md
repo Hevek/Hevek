@@ -104,7 +104,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Hevek/Hevek/blob/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/Hevek/Hevek/blob/output/snake.svg" alt="Snake animation" />-->
 
 ###
 
@@ -116,6 +116,6 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hevek.Hevek&left_text=Page visits"  />
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hevek.Hevek&left_text=Page visits"  />-->
 
 ###
