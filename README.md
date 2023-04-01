@@ -74,11 +74,9 @@
 
 ###
 
-###
+<br/>
 
-###
-
-<h4 align="center">Connect with me on</h4>
+<h2 align="center">Connect with me on</h2>
 
 ###
 
