@@ -102,7 +102,7 @@
 
 <br clear="both">
 
-<img style="border: 1px solid red" src="https://raw.githubusercontent.com/Hevek/Hevek/output/read.me/snake.svg" alt="Snake animation" />
+<!--<img style="border: 1px solid red" src="https://raw.githubusercontent.com/Hevek/Hevek/output/read.me/snake.svg" alt="Snake animation" />-->
 
 ###
 
