@@ -114,6 +114,6 @@
 
 ###
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hevek.Hevek&left_text=Page%20visits"  />
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hevek.Hevek&left_text=Page%20visits"  />-->
 
 ###
